@@ -1,5 +1,5 @@
 import { BookList } from "./book_list";
-import { LendingList } from "./leading_list";
+import { LendingList } from "./lending_list";
 
 //図書委員の中村くん
 export class Librarian {
